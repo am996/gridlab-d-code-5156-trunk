@@ -8,7 +8,8 @@ Server:
 
 Οδηγίες εγκατάστασης των services:<br>
 1. Αντιγραφή και επικόλληση του φακέλου energy στην διεύθυνση /usr/local/staff/bin<br>
-2. Σε κάθε session δίνουμε στο terminal export AXIS2C_HOME=/usr/local/axis2c<br>
+2. Σε κάθε session δίνουμε στο terminal<br>
+export AXIS2C_HOME=/usr/local/axis2c<br>
 export STAFF_HOME=/usr/local/staff<br>
 export PATH=$PATH:/usr/local/staff/bin<br>
 είτε τα προσθέτουμε ως environmental variables<br>
